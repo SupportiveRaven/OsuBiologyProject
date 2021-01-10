@@ -1,0 +1,159 @@
+{ //do everything
+    "days": [
+      { //this day nr 7 (liczac od 1, dla adama 6 bo gral dzien krocej)
+        "91": [
+          {
+            "accuracy": "81.81",
+            "pp": "null"
+          }
+        ],
+        "93": [
+          {
+            "accuracy": "89.38",
+            "pp": "null"
+          }
+        ],
+        "94": [
+          {
+            "accuracy": "91.28",
+            "pp": "null"
+          }
+        ],
+        "95": [
+          {
+            "accuracy": "88.67",
+            "pp": "null"
+          },
+          {
+            "accuracy": "93.85",
+            "pp": "null"
+          }
+        ],
+        "96": [
+          {
+            "accuracy": "93.39",
+            "pp": "74"
+          }
+        ]
+      },
+      {
+        "92": [
+          {
+            "accuracy": "68.77",
+            "pp": "0"
+          }
+        ],
+        "93": [
+          {
+            "accuracy": "86.25",
+            "pp": "null"
+          }
+        ],
+        "96": [
+          {
+            "accuracy": "94.51",
+            "pp": "138"
+          },
+          {
+            "accuracy": "95.25",
+            "pp": "null"
+          }
+        ]
+      },
+      {
+        "92": [
+          {
+            "accuracy": "66.30",
+            "pp": "null"
+          }
+        ],
+        "96": [
+          {
+            "accuracy": "96.74",
+            "pp": "null"
+          }
+        ]
+      },
+      {
+        "91": [
+          {
+            "accuracy": "82.60",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.88",
+            "pp": "null"
+          }
+        ],
+        "92": [
+          {
+            "accuracy": "66.03",
+            "pp": "1"
+          },
+          {
+            "accuracy": "66.35",
+            "pp": "null"
+          },
+          {
+            "accuracy": "68.15",
+            "pp": "null"
+          },
+          {
+            "accuracy": "72.47",
+            "pp": "null"
+          }
+        ],
+        "95": [
+          {
+            "accuracy": "89.64",
+            "pp": "null"
+          }
+        ],
+        "96": [
+          {
+            "accuracy": "96.18",
+            "pp": "null"
+          }
+        ]
+      },
+      {
+        "91": [
+          {
+            "accuracy": "85.94",
+            "pp": "null"
+          }
+        ],
+        "92": [
+          {
+            "accuracy": "72.67",
+            "pp": "null"
+          }
+        ],
+        "93": [
+          {
+            "accuracy": "89.26",
+            "pp": "null"
+          }
+        ],
+        "94": [
+          {
+            "accuracy": "92.23",
+            "pp": "null"
+          }
+        ],
+        "95": [
+          {
+            "accuracy": "94.66",
+            "pp": "null"
+          }
+        ],
+        "96": [
+          {
+            "accuracy": "95.25",
+            "pp": "null"
+          }
+        ]
+      }
+        
+    ]
+  }

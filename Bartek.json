@@ -1,0 +1,327 @@
+{ //day1 done without lv 3 day2 done halfly day3 day4 DAY5  day6 7done
+    "days": [
+      {
+        "11": [
+          {
+            "accuracy": 87.70,
+            "pp": 4
+          }
+        ],
+        "12": [
+          {
+            "accuracy": 95.49,
+            "pp": 5
+          }
+        ],
+        "13": [
+          {
+            "accuracy": 99.03,
+            "pp": 11
+          }
+        ],
+        "14": [
+          {
+            "accuracy": 98.66,
+            "pp": 9
+          }
+        ],
+        "15": [
+          {
+            "accuracy": 92.18,
+            "pp": 4
+          }
+        ],
+        "16": [
+          {
+            "accuracy": 94.15,
+            "pp": 8
+          }
+        ],
+        "21": [
+          {
+            "accuracy": 95.54,
+            "pp": 11
+          }
+        ],
+        "22": [
+          {
+            "accuracy": 92.89,
+            "pp": 6
+          }
+        ],
+        "23": [
+          {
+            "accuracy": 89.21,
+            "pp": 4
+          }
+        ],
+        "24": [
+          {
+            "accuracy": 96.44,
+            "pp": 15
+          }
+        ],
+        "25": [
+          {
+            "accuracy": 91.48,
+            "pp": 15
+          }
+        ],
+        "26": [
+          {
+            "accuracy": 87.87,
+            "pp": 9
+          }
+        ],
+        "31": [
+          {
+            "accuracy": 92.68,
+            "pp": 14
+          }
+        ],
+        "32": null,
+        "33": null,
+        "34": null,
+        "35": null,
+        "36": null,
+        "41": null,
+        "42": null,
+        "43": null,
+        "44": null,
+        "45": null,
+        "46": null,
+        "51": null,
+        "52": null,
+        "53": null,
+        "54": null,
+        "55": null,
+        "56": null,
+        "61": null,
+        "62": null,
+        "63": null,
+        "64": null,
+        "65": null,
+        "66": null,
+        "currentLevel": 0,
+        "01": [
+          {
+            "accuracy": 96.43,
+            "pp": 3
+          }
+        ],
+        "02": [
+          {
+            "accuracy": 98.20,
+            "pp": 4
+          }
+        ],
+        "03": [
+          {
+            "accuracy": 88.89,
+            "pp": 3
+          }
+        ],
+        "04": [
+          {
+            "accuracy": 98.12,
+            "pp": 6
+          }
+        ],
+        "05": [
+          {
+            "accuracy": 99.56,
+            "pp": 7
+          }
+        ],
+        "06": [
+          {
+            "accuracy": 97.89,
+            "pp": 7
+          }
+        ]
+      },
+      {
+        "31": [
+          {
+            "accuracy": "93.17",
+            "pp": "null"
+          }
+        ],
+        "32": [
+          {
+            "accuracy": "84.86",
+            "pp": "7"
+          }
+        ],
+        "36": [
+          {
+            "accuracy": "86.17",
+            "pp": "9"
+          }
+        ]
+      },
+      {  ///rest maps to zero
+        "35": [
+          {
+            "accuracy": "90.29",
+            "pp": "10"
+          }
+        ]
+      },
+      {
+        "31": [
+          {
+            "accuracy": "94.01",
+            "pp": "null"
+          }
+        ],
+        "32": [
+          {
+            "accuracy": "87.72",
+            "pp": "14"
+          }
+        ],
+        "33": [
+          {
+            "accuracy": "86.40",
+            "pp": "null"
+          },
+          {
+            "accuracy": "88.03",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.59",
+            "pp": "13"
+          }
+        ],
+        "34": [
+          {
+            "accuracy": "92.85",
+            "pp": "16"
+          }
+        ],
+        "35": [
+          {
+            "accuracy": "93.34",
+            "pp": "13"
+          }
+        ],
+        "36": [
+          {
+            "accuracy": "85.53",
+            "pp": "null"
+          }
+        ]
+      },
+      {
+        "currentLevel": 4
+      },
+
+      {
+        "41": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "42": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "43": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "44": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "45": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "46": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ]
+      },
+      {
+        "43": [
+          {
+            "accuracy": "88.81",
+            "pp": "15"
+          }
+        ]
+      },
+      {"currentLevel": 4},
+      {
+        "42": [
+          {
+            "accuracy": "81.71",
+            "pp": "11"
+          }
+        ],
+        "43": [
+          {
+            "accuracy": "90.36",
+            "pp": "null"
+          }
+        ],
+        "45": [
+          {
+            "accuracy": "81.94",
+            "pp": "null"
+          },
+          {
+            "accuracy": "80.12",
+            "pp": "null"
+          },
+          {
+            "accuracy": "87.33",
+            "pp": "38"
+          }
+        ]
+      },
+      {"currentLevel": 4},
+      {
+        "45": [
+          {
+            "accuracy": "83.25",
+            "pp": "null"
+          },
+          {
+            "accuracy": "90.10",
+            "pp": "null"
+          },
+          {
+            "accuracy": "85.68",
+            "pp": "null"
+          },
+          {
+            "accuracy": "89.24",
+            "pp": "null"
+          },
+          {
+            "accuracy": "88.89",
+            "pp": "null"
+          },
+          {
+            "accuracy": "90.54",
+            "pp": "50"
+          }
+        ]
+      }
+
+    ]
+  }

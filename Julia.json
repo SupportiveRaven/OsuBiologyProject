@@ -1,0 +1,605 @@
+//done to day8
+{ 
+    "days": [
+      {
+        "currentLevel": 0,
+        "01": [
+          {
+            "accuracy": 86.61,
+            "pp": 0
+          }
+        ],
+        "02": [
+          {
+            "accuracy": 72.52,
+            "pp": 0
+          }
+        ],
+        "03": [
+          {
+            "accuracy": 95.02,
+            "pp": 0
+          }
+        ],
+        "04": [
+          {
+            "accuracy": 92.25,
+            "pp": 0
+          }
+        ],
+        "05": [
+          {
+            "accuracy": 79.28,
+            "pp": 0
+          }
+        ],
+        "06": [
+          {
+            "accuracy": 82.37,
+            "pp": 0
+          }
+        ]
+      },
+      {
+        "currentLevel": 0,
+        "01": [
+          {
+            "accuracy": 89.48,
+            "pp": 0
+          },
+          {
+            "accuracy": 93.65,
+            "pp": 3
+          }
+        ],
+        "02": [
+            {
+              "accuracy": 85.81,
+              "pp": 0
+            },
+            {
+              "accuracy": 90.32,
+              "pp": 0
+            },
+            {
+              "accuracy": 90.77,
+              "pp": 3
+            },
+            {
+              "accuracy": 93.47,
+              "pp": 0
+            },
+            {
+              "accuracy": 94.59,
+              "pp": 0
+            }
+          ],
+        "03":  [
+            {
+              "accuracy": 96.10,
+              "pp": 0
+            },
+            {
+              "accuracy": 97.35,
+              "pp": 6
+            }
+        ],
+        "04": [
+            {
+              "accuracy": 95.07,
+              "pp": 0
+            },
+            {
+              "accuracy": 97.65,
+              "pp": 0
+            },
+            {
+              "accuracy": 97.18,
+              "pp": 5
+            }
+        ],
+        "05": [
+            {
+              "accuracy": 92.21,
+              "pp": 0
+            },
+            {
+              "accuracy": 96.60,
+              "pp": 3
+            }
+          ],
+        "06": [
+            {
+              "accuracy": 96.14,
+              "pp": 6
+            }
+          ]
+      },
+      {
+        "currentLevel": 1,
+        "11": [
+          {
+            "accuracy": "74.66",
+            "pp": "1"
+          }
+        ],
+        "12": [
+          {
+            "accuracy": "80.05",
+            "pp": "null"
+          },
+          {
+            "accuracy": "79.81",
+            "pp": "3"
+          }
+        ],
+        "13": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "14": [
+          {
+            "accuracy": "89.92",
+            "pp": "null"
+          },
+          {
+            "accuracy": "91.87",
+            "pp": "4"
+          }
+        ],
+        "15": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "16": [
+          {
+            "accuracy": "64.50",
+            "pp": "null"
+          },
+          {
+            "accuracy": "73.98",
+            "pp": "2"
+          }
+        ]
+      },
+      {
+        "11": [
+          {
+            "accuracy": "79.64",
+            "pp": "1"
+          },
+          {
+            "accuracy": "82.38",
+            "pp": "null"
+          },
+          {
+            "accuracy": "84.22",
+            "pp": "null"
+          }
+        ],
+        "12": [
+          {
+            "accuracy": "88.44",
+            "pp": "null"
+          },
+          {
+            "accuracy": "88.56",
+            "pp": "4"
+          }
+        ],
+        "13": [
+          {
+            "accuracy": "85.74",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.68",
+            "pp": "3"
+          },
+          {
+            "accuracy": "86.24",
+            "pp": "null"
+          }
+        ],
+        "14": [
+          {
+            "accuracy": "95.37",
+            "pp": "7"
+          }
+        ],
+        "15": [
+          {
+            "accuracy": "82.61",
+            "pp": "null"
+          },
+          {
+            "accuracy": "83.39",
+            "pp": "3"
+          }
+        ],
+        "16": [
+          {
+            "accuracy": "84.03",
+            "pp": "3"
+          },
+          {
+            "accuracy": "82.70",
+            "pp": "null"
+          }
+        ]
+      },
+      {
+        "11": [
+          {
+            "accuracy": "90.71",
+            "pp": "4"
+          }
+        ],
+        "12": [
+          {
+            "accuracy": "92.34",
+            "pp": "4"
+          }
+        ],
+        "13": [
+          {
+            "accuracy": "89.30",
+            "pp": "null"
+          },
+          {
+            "accuracy": "94.54",
+            "pp": "5"
+          }
+        ],
+        "14": [
+          {
+            "accuracy": "94.86",
+            "pp": "7"
+          }
+        ],
+        "15": [
+          {
+            "accuracy": "89.52",
+            "pp": "null"
+          },
+          {
+            "accuracy": "87.82",
+            "pp": "null"
+          },
+          {
+            "accuracy": "91.09",
+            "pp": "4"
+          }
+        ],
+        "16": [
+          {
+            "accuracy": "87.15",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.83",
+            "pp": "3"
+          }
+        ]
+      },
+      {
+        "21": [
+          {
+            "accuracy": "85.45",
+            "pp": "3"
+          }
+        ],
+        "22": [
+          {
+            "accuracy": "85.30",
+            "pp": "3"
+          }
+        ],
+        "23": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ],
+        "24": [
+          {
+            "accuracy": "85.22",
+            "pp": "4"
+          }
+        ],
+        "25": [
+          {
+            "accuracy": "83.46",
+            "pp": "5"
+          }
+        ],
+        "26": [
+          {
+            "accuracy": "0",
+            "pp": "0"
+          }
+        ]
+      },
+      {
+        "21": [
+          {
+            "accuracy": "85.76",
+            "pp": "null"
+          }
+        ],
+        "22": [
+          {
+            "accuracy": "84.21",
+            "pp": "3"
+          },
+          {
+            "accuracy": "82.05",
+            "pp": "null"
+          },
+          {
+            "accuracy": "85.16",
+            "pp": "null"
+          },
+          {
+            "accuracy": "85.64",
+            "pp": "null"
+          }
+        ],
+        "23": [
+          {
+            "accuracy": "84.08",
+            "pp": "3"
+          }
+        ],
+        "24": [
+          {
+            "accuracy": "79.22",
+            "pp": "null"
+          },
+          {
+            "accuracy": "90.33",
+            "pp": "4"
+          }
+        ],
+        "25": [
+          {
+            "accuracy": "89.60",
+            "pp": "7"
+          },
+          {
+            "accuracy": "81.95",
+            "pp": "null"
+          }
+        ],
+        "26": [
+          {
+            "accuracy": 0,
+            "pp": 0
+          }
+        ]
+      },
+      {
+        "21": [
+          {
+            "accuracy": "88.73",
+            "pp": "null"
+          },
+          {
+            "accuracy": "93.74",
+            "pp": "8"
+          }
+        ],
+        "22": [
+          {
+            "accuracy": "80.28",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.72",
+            "pp": "null"
+          },
+          {
+            "accuracy": "90.99",
+            "pp": "10"
+          },
+          {
+            "accuracy": "88.96",
+            "pp": "null"
+          },
+          {
+            "accuracy": "91.80",
+            "pp": "null"
+          }
+        ],
+        "23": [
+          {
+            "accuracy": "86.65",
+            "pp": "5"
+          },
+          {
+            "accuracy": "86.69",
+            "pp": "null"
+          }
+        ],
+        "24": [
+          {
+            "accuracy": "84.78",
+            "pp": "null"
+          },
+          {
+            "accuracy": "81.22",
+            "pp": "null"
+          }
+        ],
+        "25": [
+          {
+            "accuracy": "91.23",
+            "pp": "null"
+          },
+          {
+            "accuracy": "84.34",
+            "pp": "null"
+          },
+          {
+            "accuracy": "88.97",
+            "pp": "null"
+          },
+          {
+            "accuracy": "89.47",
+            "pp": "null"
+          },
+          {
+            "accuracy": "88.97",
+            "pp": "null"
+          },
+          {
+            "accuracy": "90.23",
+            "pp": "9"
+          }
+        ],
+        "26": [
+          {
+            "accuracy": "84.87",
+            "pp": "6"
+          }
+        ]
+      },
+      {
+        "21": [
+          {
+            "accuracy": "93.51",
+            "pp": "null"
+          },
+          {
+            "accuracy": "93.66",
+            "pp": "null"
+          }
+        ],
+        "22": [
+          {
+            "accuracy": "88.21",
+            "pp": "null"
+          },
+          {
+            "accuracy": "89.97",
+            "pp": "null"
+          },
+          {
+            "accuracy": "92.55",
+            "pp": "null"
+          },
+          {
+            "accuracy": "92.28",
+            "pp": "11"
+          }
+        ],
+        "23": [
+          {
+            "accuracy": "87.22",
+            "pp": "null"
+          }
+        ],
+        "24": [
+          {
+            "accuracy": "88.00",
+            "pp": "null"
+          },
+          {
+            "accuracy": "87.56",
+            "pp": "null"
+          },
+          {
+            "accuracy": "89.44",
+            "pp": "null"
+          }
+        ],
+        "25": [
+          {
+            "accuracy": "90.98",
+            "pp": "null"
+          },
+          {
+            "accuracy": "92.48",
+            "pp": "null"
+          },
+          {
+            "accuracy": "86.72",
+            "pp": "null"
+          },
+          {
+            "accuracy": "89.60",
+            "pp": "null"
+          },
+          {
+            "accuracy": "87.47",
+            "pp": "null"
+          },
+          {
+            "accuracy": "91.73",
+            "pp": "null"
+          },
+          {
+            "accuracy": "94.61",
+            "pp": "10"
+          }
+        ],
+        "26": [
+          {
+            "accuracy": "78.80",
+            "pp": "null"
+          },
+          {
+            "accuracy": "85.25",
+            "pp": "6"
+          }
+        ]
+      },
+      {
+        "currentLevel": 3 //all maps to 0
+      },
+      {
+        "34": [
+          {
+            "accuracy": "70.28",
+            "pp": "4"
+          }
+        ],
+        "35": [
+          {
+            "accuracy": "81.90",
+            "pp": "6"
+          }
+        ]
+      },
+      {
+        "31": [
+          {
+            "accuracy": "83.52",
+            "pp": "null"
+          }
+        ],
+        "33": [
+          {
+            "accuracy": "78.26",
+            "pp": "6"
+          }
+        ],
+        "34": [
+          {
+            "accuracy": "81.13",
+            "pp": "9"
+          }
+        ],
+        "35": [
+          {
+            "accuracy": "82.20",
+            "pp": "8"
+          }
+        ]
+      } 
+    ]
+}
