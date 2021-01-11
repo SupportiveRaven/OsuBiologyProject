@@ -1,6 +1,7 @@
 {
   "days": [
     {
+      "currentLevel": 0,
       "03": [
         {
           "accuracy": "70.40",
@@ -21,6 +22,7 @@
       ]
     },
     {
+      "currentLevel": 0,
       "01": [
         {
           "accuracy": "86.41",
